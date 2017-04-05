@@ -6,11 +6,11 @@ Credentials (user/pass and enable secrets) are taken from ENVIRONMET var list an
 
 main script extensions:
 
+```
 -r jump device (like bastion host) 
-
 -j 1.1.1.1 [, 2.2.2.2, 3.3.3.3, ...]
-
 --cmd <command> or xxxx.cmd (contains a list of commands to execute)
+```
 
 for additional infos user --help
 
