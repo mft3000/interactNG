@@ -12,7 +12,7 @@ main script extensions:
 
 for additional infos user --help
 
-'''
+```
 $ python interactNG.py -r tp-test-6500 -d -j 192.168.55.2 192.168.124.2 --cmd show ver -i IOS
 WARNING: No route found for IPv6 destination :: (no default route?)
 DEBUG:root:10.123.123.12 is succesfully icmp reachable!
@@ -61,4 +61,4 @@ INFO:root:send command show ver | include IOS
 show ver | include IOS
 Cisco IOS Software, 7200 Software (C7200P-ADVENTERPRISEK9-M), Version 15.2(3)M, RELEASE SOFTWARE (fc2)
 ================================
-'''
+```
